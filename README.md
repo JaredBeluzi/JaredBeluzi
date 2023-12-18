@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jared Beluzi</h1>
+<h1 align="center">Hi 👋, Ich bin Jared Beluzi</h1>
 <h3 align="center">Data Scientist im deutschen Gesundheitssystem</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaredbeluzi&label=Profile%20views&color=0e75b6&style=flat" alt="jaredbeluzi" /> </p>
