@@ -3,7 +3,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaredBeluzi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://visitcount.itsvg.in/api?id=JaredBeluzi&icon=0&color=5)
+![](https://visitcount.itsvg.in/api?id=JaredBeluzi&icon=0&color=10)
 
 ---
 
@@ -12,8 +12,3 @@
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
